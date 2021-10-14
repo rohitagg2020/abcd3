@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: rohitagg2020/abcd3
     backstage.io/techdocs-ref: dir:.
-    backstage.io/kubernetes-id: foo
+    backstage.io/kubernetes-id: abcd3
 spec:
   type: service
   lifecycle: experimental
