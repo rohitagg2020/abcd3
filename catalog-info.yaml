@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "abcd3"
+  description: ""
+  annotations:
+    github.com/project-slug: rohitagg2020/abcd3
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "rohitagg2020"
