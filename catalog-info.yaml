@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: rohitagg2020/packaging.carvel.dev-v1alpha1
     backstage.io/techdocs-ref: dir:.
-    backstage.io/kubernetes-id: "packaging.carvel.dev-v1alpha1"
+    backstage.io/kubernetes-id: packaging.carvel.dev-v1alpha1
 spec:
   type: service
   lifecycle: experimental
